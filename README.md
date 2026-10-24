@@ -51,7 +51,7 @@ Recipient of an **NSTC Undergraduate Student Research Project grant (ROC year 11
 
 ## Find me
 
-[Portfolio ↗](https://jengyoyao.github.io) &nbsp;·&nbsp; [GitHub ↗](https://github.com/jengyoyoAo)
+[Portfolio ↗](https://jengyoyoao.github.io) &nbsp;·&nbsp; [GitHub ↗](https://github.com/jengyoyoAo)
 
 <div align="center">
   <sub>Curious about the point where optimization meets perception.</sub>
