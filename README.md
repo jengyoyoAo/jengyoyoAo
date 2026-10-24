@@ -31,9 +31,9 @@ Recipient of an **NSTC Undergraduate Student Research Project grant (ROC year 11
 
 | Project | What I'm exploring |
 | :-- | :-- |
-| [Graph Partitioning × QUBO × Computer Vision](https://github.com/jeng-a-yo/Graph-Partitioning-via-QUBO-Optimization-and-YOLO-Geometric-Detection) | Prototype experiments in image-based adjacency extraction and QUBO formulations for graph partitioning. |
-| [TSP-QUBO](https://github.com/jeng-a-yo/TSP-QUBO) | A GPS-style QUBO prototype whose sample tours are compared with Held–Karp dynamic programming and brute-force solvers. |
-| [Handwritten Digit Recognition](https://github.com/jeng-a-yo/Final-Project-Handeritten-recognizition) | An MNIST digit-recognition prototype using a small PyTorch CNN, with a Streamlit interface. |
+| [Graph Partitioning × QUBO × Computer Vision](https://github.com/jengyoyoAo/Graph-Partitioning-via-QUBO-Optimization-and-YOLO-Geometric-Detection) | Prototype experiments in image-based adjacency extraction and QUBO formulations for graph partitioning. |
+| [TSP-QUBO](https://github.com/jengyoyoAo/TSP-QUBO) | A GPS-style QUBO prototype whose sample tours are compared with Held–Karp dynamic programming and brute-force solvers. |
+| [Handwritten Digit Recognition](https://github.com/jengyoyoAo/Final-Project-Handeritten-recognizition) | An MNIST digit-recognition prototype using a small PyTorch CNN, with a Streamlit interface. |
 
 ## Teaching &amp; leadership
 
@@ -45,13 +45,13 @@ Recipient of an **NSTC Undergraduate Student Research Project grant (ROC year 11
 ## GitHub snapshot
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=jeng-a-yo&show_icons=true&hide_border=true&theme=github_dark_dimmed&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeng-a-yo&layout=compact&hide_border=true&theme=github_dark_dimmed" alt="Most used programming languages" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=jengyoyoAo&show_icons=true&hide_border=true&theme=github_dark_dimmed&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jengyoyoAo&layout=compact&hide_border=true&theme=github_dark_dimmed" alt="Most used programming languages" />
 </div>
 
 ## Find me
 
-[Portfolio ↗](https://jeng-a-yo.github.io) &nbsp;·&nbsp; [GitHub ↗](https://github.com/jeng-a-yo)
+[Portfolio ↗](https://jengyoyao.github.io) &nbsp;·&nbsp; [GitHub ↗](https://github.com/jengyoyoAo)
 
 <div align="center">
   <sub>Curious about the point where optimization meets perception.</sub>
